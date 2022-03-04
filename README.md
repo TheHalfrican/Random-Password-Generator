@@ -8,3 +8,8 @@ This is a random password generator. It gives the user options to customize it s
 These options can be turned on and off via the check-box's next to thier respective text under the result-container. 
 
 It also lets the user choose between 8 and 128 characters for said password. 
+
+Here are the links:
+
+https://github.com/TheHalfrican/Random-Password-Generator
+https://thehalfrican.github.io/Random-Password-Generator/
